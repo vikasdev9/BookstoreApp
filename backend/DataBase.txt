@@ -1,0 +1,13 @@
+DataBasePassword
+A8oQ3HkdHa7QsRfb
+
+IP Address
+103.165.69.47
+
+mongodb+srv://vikaschauhan0368_db_user:A8oQ3HkdHa7QsRfb@cluster0.f622dgz.mongodb.net/BookStoreDb?appName=Cluster0
+
+D:\GitHubRepository\BookstoreApp\backend>node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+->e8894bcde8c0c1f19907b35a4f8df386e99b6b4219f974f2557f0551f72d2e80
+
+Or
+openssl rand -hex 32

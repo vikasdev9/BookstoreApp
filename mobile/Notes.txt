@@ -1,0 +1,2 @@
+Remove .git file from folder using cmd
+->rmdir /s /q .git
